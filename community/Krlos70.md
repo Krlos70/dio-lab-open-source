@@ -1,5 +1,5 @@
-👨🏾Francisco Carlos
- Sou graduado em Analise e Desenvolvimento de Sistemas, técnico em hardware, montagem de redes, desenvolvedor back-end
+👨🏾 Meu nome é Francisco Carlos, 
+ sou graduado em Analise e Desenvolvimento de Sistemas, técnico em hardware, montagem de redes, desenvolvedor back-end
 
 💡 Meu status
 GitHub Streak
